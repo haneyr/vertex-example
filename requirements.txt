@@ -1,0 +1,8 @@
+numpy
+flask
+Keras-Applications
+Keras-Preprocessing
+numpy
+tensorflow
+keras
+Pillow
